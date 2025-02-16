@@ -1,0 +1,12 @@
+pandas 
+seaborn
+matplotlib
+scikit-learn
+tensorflow
+keras
+nltk
+librosa
+tqdm
+wavio
+sounddevice
+streamlit
